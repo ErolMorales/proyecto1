@@ -1,7 +1,3 @@
-**/staticfiles/
-**/node_modules/
-**/__pycache__/
-*.pyc
-env/
-.env
-**/.idea/
+db.sqlite3
+env
+_pycache_
